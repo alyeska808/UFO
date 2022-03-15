@@ -21,7 +21,7 @@ data.forEach((dataRow) => {
 function handleClick() {
     // grab the datetime value from the filter
     let date = d3.select("#datetime").property("value");
-    let filteredDate = tableData;
+    let filteredData = tableData;
     
     // check to see if a date was entered and filter the
     // data using that date.
@@ -48,6 +48,6 @@ buildData(tableData);
 
 // pseudocode practice
 // if (a date is enetered) {
-// Filter the default data to show onlyt the date entered
+// Filter the default data to show only the date entered
 // };
 
