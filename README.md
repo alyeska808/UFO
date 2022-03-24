@@ -1,10 +1,10 @@
 # UFO
 
+In this module, I create a table to organize UFO data that is stored as a JavaScript array, or list. This table will have the ability to filter data based on certain criteria and will be created using JavaScript as the primary coding language.
+
 ## Overview of Project: 
 
-(Explain the purpose of this analysis.)
-
-Use Javascript, HTML, and CSS to create a custom webpage that showcases different UFO sightings around the world.
+A request from a client to create a dynamic website that displays tabular information on UFO sightings data stored as a JavaScript array. They would like the ability to filter the data based on multiple criteria selected by the visitor. This filterable data table was created using JavaScript, while HTML/CSS and Bootstrap were used to modify and stylize the dynamic website. 
 
 ## Results: 
 
