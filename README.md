@@ -12,6 +12,8 @@ A request from a client to create a dynamic website that displays tabular inform
 
 ## Summary: 
 
-(In a summary statement, describe one drawback of this new design and two recommendations for further development.)
+The user must input exact dates, cities, and/or shapes for the search to display proper results. The filter requires the exact spellings and is lower-case sensitive. For example, searching El Cajon must be entered as el cajon. Spaces at the end of the text are also not recongized. 
+
+One recommendation is to create coding that allows for looser restrictions on the filter. Such as mispellings, spaces at the end of text, and not case sensitive. Another recommendation would to allow for the filter to cast "a date net" when a user enters a specific date that is null of data to display.
 
 # for git: https://github.com/alyeska808/UFO.git
