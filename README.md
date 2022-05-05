@@ -6,7 +6,10 @@ In this module, I will create a table to organize UFO data that is stored as a J
 
 A request from a client to create a dynamic website that displays tabular information on UFO sightings data stored as a JavaScript array. They would like the capacity to filter the data based on multiple criteria selected by the website visitor. This data table was created using JavaScript, with HTML/CSS and Bootstrap used to modify and stylize the website. 
 
-## Results: 
+## Results:
+
+<img width="1190" alt="Screen Shot 2022-05-04 at 7 21 56 PM" src="https://user-images.githubusercontent.com/95881678/166856985-13617b43-6eb5-4775-bd28-337eea41974f.png">
+
 
 (Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.)
 
